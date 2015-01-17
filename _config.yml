@@ -74,13 +74,11 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
-  - class: icon-renren
-    url: http://renren.com
+    url: http://weibo.com/u/2230360055
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: https://github.com/niutianjing
   - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://twitter.com
   - class: icon-google-plus
     url: http://google.com
 
@@ -89,19 +87,13 @@ customLinks:
   - item:
     - text: 掌心
       url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
     message: Friends
   - item:
-    - text: Font Awesome
-      url: http://fortawesome.github.io/Font-Awesome/
-    - text: Google Font
-      url: http://www.google.com/fonts/
-    - text: jQuery
-      url: http://jquery.com/
-    message: 其他相关链接
+    - text: 掌心
+      url: http://www.zhanxin.info
+    - text: Jekyll
+      url: http://jekyllrb.com
+    message: 其他链接
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
