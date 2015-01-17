@@ -22,6 +22,8 @@ unpublished:  false
 
 # Conversion
 markdown:     Redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "strikethrough", "underline", "autolink", "tables", "with_toc_data"]
 highlighter:  pygments
 lsi:          false
 #excerpt_separator: "\n\n"
