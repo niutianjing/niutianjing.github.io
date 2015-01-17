@@ -15,9 +15,9 @@ category: "博客"
 
 ### 2015-01-17
 - 选择一个Jekyll模板
-- 注册一个Github账号,创建一个库站点
-- 注册一个duoshuo账号,作为站点的评论组件
-- 注册http://cn.gravatar.com/账号,上传头像
+- 注册一个[Github](http://github.com "Github")账号,创建一个库站点
+- 注册一个[多说](http://duoshuo.com "多说")账号,作为站点的评论组件
+- 注册[Gravatar](http://cn.gravatar.com "Gravatar")账号,上传头像
 - 上传并修改模板和配置文件
     - 一些基本配置修改
     - 修改jquery和Font的CDN地址为国内
